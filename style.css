@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Dancing+Script:wght@500&family=Hind+Siliguri:wght@300&family=Open+Sans:wght@300;400;500;600;700&family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+
+body {
+  font-size: 20px;
+  font-family:"Poppins", sans-serif;
+}
+
+.baslik {
+  color: brown;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+p {
+  margin: 10px 50px;
+  text-align: center;
+}
+
+.p2{
+  margin-top: 40px;
+  color: darkgreen;
+}
+
+ul li {
+  list-style-position: inside;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+ol {
+  list-style-position: inside;
+  text-align: center;
+}
